@@ -34,7 +34,8 @@ li:first-letter {
 
 .weather-app-wrapper{
     max-width: 600px;
-    margin: 30px auto;
+    margin: 50px auto;
+    box-shadow: #878788;
 }
 .weather-app {
    
@@ -62,3 +63,4 @@ position: relative;
 font-size: 16px;
 top: -34px;
 }
+
